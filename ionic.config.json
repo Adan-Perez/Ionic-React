@@ -1,0 +1,7 @@
+{
+  "name": "myappionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
