@@ -19,6 +19,8 @@
     <img src="https://i.imgur.com/QkxesUy.gif" alt="Demo">
 </div>
 
+### Si el video no carga, vamos al link: https://i.imgur.com/QkxesUy.gif
+
 ---
 
 ## Screenshots
